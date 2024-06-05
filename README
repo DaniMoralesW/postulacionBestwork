@@ -1,0 +1,7 @@
+Para realizar esta prueba primero busqué información online sobre cómo Python puede leer y modificar archivos Excel y lo que se necesita instalar. Me basé en videos de Youtube, Stack Over Flow y ChatGPT. También en cómo trabajar Python en VS Code.
+
+Utilicé las librerías de Pandas para leer y trabajar con el archivo Excel.
+
+Después importé la librería, creé una función en base a los datos de la tabla, siguiendo las instrucciones.
+
+Moví las instrucciones de lugar del archivo Excel, ya que al momento de realizar el print me aparecían abajo.
